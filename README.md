@@ -35,5 +35,5 @@
     tqdm: 4.66.4 (Barra de progreso)
     seaborn: 0.13.2 (Visualización de gráficos estadísticos)
 
-  #NOTA 
+  # NOTA 
   Los archivos grandes como el dataset así como los modelos entrenados o las imagenes de prueba no me deja subirlos
