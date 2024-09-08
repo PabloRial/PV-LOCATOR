@@ -1,0 +1,6 @@
+# dataset.yaml
+train: #Dirección de la carpeta de imágenes para ENTRENAR el modelo dentro de la carpeta DATASET
+val: #Dirección de la carpeta de imágenes para VALIDAR el modelo dentro de la carpeta DATASET
+
+nc: 1  # Número de clases
+names: ['solar_panel']  # Nombres de las clases
